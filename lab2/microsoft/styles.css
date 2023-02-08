@@ -33,6 +33,15 @@ li a{
     left: 0; 
     width: 100%; 
     margin-left: 80px;
+ }
+ h2{
+    position: absolute;
+    top:260px;
+    left: 0; 
+    width: 100%; 
+    margin-left: 80px;
+    font-weight: 200;
+    font-size: 15px;
 
  }
 
