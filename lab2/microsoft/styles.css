@@ -1,0 +1,36 @@
+header{
+    display: flex;
+}
+header ul{
+    margin-top: 30px;
+}
+
+li{
+    display: inline;
+    margin-top: 5px;
+    margin-right: 20px;
+}
+li a{
+    text-decoration: none;
+    font-style: “Segoe UI”, sans-serif;
+    color: grey;
+    font-size: 16px;
+}
+
+.right-side {
+    left:80%;
+    margin-top: 30px;
+    display: inline;
+}
+.img-main{ 
+    position: relative; 
+    width: 90%; 
+ }
+ 
+ h2 { 
+    position: absolute; 
+    top: 200px; 
+    left: 0; 
+    width: 90%; 
+ }
+
