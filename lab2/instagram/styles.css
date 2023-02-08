@@ -4,11 +4,11 @@
 }
 
 body{
-   background-color: #E9EBEE;
+   background-color: #F5F6F7;
 }
 .insta-screen{
     position: absolute;
-    margin-top: 40px;
+    margin-top: 5px;
     margin-left: 100px;
 }
 .insta-login{
@@ -139,17 +139,22 @@ body{
     margin-top: 20px;
     margin-left: 700px;
 }
-
-.img-google{
+.img-download{
     margin-top: 25px;
     margin-left: 650px;
-    top: 40%;
-
+    margin-top: 10px;
 }
-.img-apple{
-    margin-left: 800px;
-    top: 40%;
-}
-.img-apple .img-google{
-    display: inline;
+.links p{
+    color: rgb(142,142,142);
+    margin-left: 40px;
+    text-decoration-line: none;
+    text-decoration-color: #fff;
+    align-items: center;
+    display: block; 
+    font-family: “Segoe UI”, sans-serif    ;
+    font-size: 14px;
+    position: relative;
+    font-weight: 400;
+    margin-top: 50px;
+    margin-left: 200px;
 }
