@@ -34,6 +34,7 @@ p{
     border-radius: 7px;
     font-family: Arial, Helvetica, sans-serif;
     box-shadow: 5px 5px 5px -9px;
+    border: 1px solid #ccc;
 }
 
 .fb-login input{
@@ -41,8 +42,10 @@ p{
     margin-top: 18px;
     margin-left: 21px;
     padding: 10px 18px;
+    border: 1px solid #ccc;
 
 }
+
 .login-button{
     text-align: center;
     background-color: #2C83F2;
@@ -67,16 +70,16 @@ p{
 .forget-password a{
     text-decoration: none;
     color: #2C83F2;
-    font-size: 15px;
+    font-size: 13px;
     font-weight: bold;
+    display: block;
 }
-.fb-line{
-    width: 80%;
-    height: 1px;
-    margin-top: 20px;
-    margin-left: 30px;
-    border: 1px solid #ccc;
+.hr{
+    border-top: 1px solid #222;
+    opacity: 0.2;
+    width:50%;    
 }
+
 .create-account-button{
     text-align: center;
     margin-top: 30px;
@@ -103,24 +106,72 @@ p{
 .lang-list{
     padding-top: 8px;
     align-items: center;
-    display: flex;
+    display: flex; 
     font-size: 12px;
-    margin-top: 8px;
+    margin-top: 600px;
     color: rgb(115, 115, 115);
     font-family: Arial, Helvetica, sans-serif;
-    text-decoration: none;
-    /* line-height: 16px; */
-    
+    line-height: 16px;
+    list-style-type: none;
+    background-color: #fff;
+    text-decoration-color: #fff;
 }
-/* .languages{
-    position:absolute;
-    top: 90%;
-    left: 1%;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 12px;
-    margin-right: 0px;
-    text-decoration-style: solid;
-    text-align: left;
-    color: #8a8d91
+.lang-list li{
+    margin-left: 40px;
+    text-decoration-line: none;
+    text-decoration-color: #fff;
+}
+ hr{
+    border-top: 1px solid #222;
+    opacity: 0.1;
+    width:100%;  
 
-} */
+}
+.links-list{
+    display: flex;
+    list-style-type: none;
+    color: rgb(115, 115, 115);
+    align-items: center;
+    font-size: 12px;
+    line-height: 16px;
+    background-color: #fff;
+}
+.links-list li{
+    margin-left: 40px;
+    border-color: #fff;
+    text-decoration-line: none;
+}
+.link-list-2{
+    display: flex;
+    list-style-type: none;
+    color: rgb(115, 115, 115);
+    align-items: center;
+    font-size: 12px;
+    line-height: 16px;
+    background-color: #fff;
+}
+.link-list-2 li{
+    margin-left: 40px;
+    border-color: #fff;
+    text-decoration-line: none;
+}
+.link-list-3{
+    display: flex;
+    list-style-type: none;
+    color: rgb(115, 115, 115);
+    align-items: center;
+    font-size: 12px;
+    line-height: 16px;
+    background-color: #fff;
+}
+.link-list-3 li{
+    margin-left: 40px;
+    border-color: #fff;
+    text-decoration-line: none;
+}
+.page-footer p{
+    color: rgb(115, 115, 115);
+    font-size: 12px;
+    text-align: center;
+    background-color: #fff;
+}
