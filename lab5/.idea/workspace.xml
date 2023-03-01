@@ -5,31 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3b50ef8-8084-4bd3-b9e7-03f8337c7613" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../lab4/first-app/.stackblitzrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4/first-app/angular.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4/first-app/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4/first-app/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4/first-app/src/app/app.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4/first-app/src/app/app.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4/first-app/src/app/app.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4/first-app/src/app/app.module.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4/first-app/src/app/product-alerts/product-alerts.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4/first-app/src/app/product-alerts/product-alerts.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4/first-app/src/app/product-alerts/product-alerts.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4/first-app/src/app/product-alerts/product-alerts.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4/first-app/src/app/product-list/product-list.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4/first-app/src/app/product-list/product-list.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4/first-app/src/app/product-list/product-list.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4/first-app/src/app/products.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4/first-app/src/app/top-bar/top-bar.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4/first-app/src/app/top-bar/top-bar.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4/first-app/src/app/top-bar/top-bar.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4/first-app/src/assets/shipping.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4/first-app/src/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4/first-app/src/main.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4/first-app/src/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4/first-app/tsconfig.app.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4/first-app/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.module.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +28,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Asus/Documents/web23/lab5",
+    "last_opened_file_path": "C:/Users/Asus/Documents/angular",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -88,6 +64,7 @@
       <workItem from="1677588280297" duration="1332000" />
       <workItem from="1677598031664" duration="1654000" />
       <workItem from="1677599953920" duration="55000" />
+      <workItem from="1677614182419" duration="17000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,10 @@
+.item-image{
+    height: 100px;
+    cursor: pointer;
+}
+.item-image:hover{
+    opacity: 70%;
+}
+h4{
+    font-weight: normal;
+}

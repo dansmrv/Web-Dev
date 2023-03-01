@@ -1,0 +1,24 @@
+<!--items-->
+<!--product name + link for it-->
+<h3>
+    <a href="{{product.link}}" targer="_blank">{{product.name}}</a>
+</h3>
+
+<!--product image-->
+<img src="{{product.image}}" alt="" class="item-image">
+
+<!--product desription-->
+<h4 *ngIf="product.description">Product description:</h4>
+
+<!-- product description -->
+<p *ngIf="product.description">{{product.description}}</p>
+
+<!-- product rating -->
+<p *ngIf="product.rating">{{product.rating}} of 5 ⭐️</p>
+
+<!-- product price -->
+<h4 *ngIf="product.price">Product price: {{product.price}}</h4>
+<!-- <h4 >{{product.price}}</h4> -->
+
+<!-- product likes -->
+<h4>❤️{{product.likes}}</h4>

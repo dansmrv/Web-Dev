@@ -1,5 +1,17 @@
+h2{
+    color:royalblue;
+    font-weight: inherit;
+}
 
 
+/* 
+.item-image{
+    height: 100px;
+    cursor: pointer;
+}
+.item-image:hover{
+    opacity: 70%;
+} */
 /*
 Copyright Google LLC. All Rights Reserved.
 Use of this source code is governed by an MIT-style license that
