@@ -1,0 +1,12 @@
+.menu {
+    font-size: 15px;
+  }
+  
+  .menu-links {
+    text-decoration: none;
+    color: black;
+  }
+  
+  .menu-links:hover {
+    background-color: white;
+  }

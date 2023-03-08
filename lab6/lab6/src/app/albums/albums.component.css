@@ -1,0 +1,31 @@
+h2 {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .photo-links {
+    text-decoration: none;
+    color: black;
+    font-size: 20x;
+    font-weight: bold;
+  }
+  
+  .photo-links:hover {
+    background-color: white;
+  }
+  
+  .delete-btn {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .add-btn {
+    margin-left: 10px;
+  }
+  
+  .field {
+    width : 320px;
+    border: none;
+    background-color: black;
+    border-radius: 5px;
+  }
